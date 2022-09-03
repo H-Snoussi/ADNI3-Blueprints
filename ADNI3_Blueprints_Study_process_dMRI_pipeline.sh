@@ -2,9 +2,14 @@
 
 
 
+# 
 # Author: Haykel Snoussi (dr.haykel.snoussi@gmail.com)
 # Project: ADNI3 Study for Brain Connectivity - Blueprints 
 # March 2022, UT Health San Antonio, Texas
+#
+
+echo "-------------------------------------------------"
+echo "Processing diffusion MRI data for ADNI3 :" 
 
 # DIRS
 BASEDIR=/home/snoussi/my_work/ADNI_Study/data
