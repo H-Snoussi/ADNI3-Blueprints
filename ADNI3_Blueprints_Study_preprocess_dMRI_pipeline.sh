@@ -1,9 +1,13 @@
 #!/bin/bash	
 
-
+# 
 # Author: Haykel Snoussi (dr.haykel.snoussi@gmail.com)
 # Project: ADNI3 Study for Brain Connectivity - Blueprints 
 # March 2022, UT Health San Antonio, Texas
+#
+
+echo "--------------------------------------------"
+echo "Preprocessing diffusion MRI data for ADNI3 :" 
 
 
 # DIRS
